@@ -43,7 +43,9 @@ Here is a list of the technologies that I'm familar with!
 
 ## Real-time Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=coderRj42&count_private=true" width = 400>
+     
+  <a href="https://github.com/coderRj42/github-readme-stats"><img alt="Jai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderRj42&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="height: 195px;"/></a>
+  
   <br><br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=coderRj42" width = 400>
 </p>
@@ -53,7 +55,6 @@ Here is a list of the technologies that I'm familar with!
     </a>
 </p>
 <br/>
-  <a href="https://github.com/coderRj42/github-readme-stats"><img alt="Jai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderRj42&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="height: 195px;"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
